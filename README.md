@@ -1,4 +1,4 @@
-test-1
+HELLO EVERYONE !
 ======
 
-My first repository on GitHub.
+This is my first attempt on using GitHub and learn how to code things.
